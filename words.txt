@@ -1,6 +1,0 @@
-dog
-cat
-ball
-lion
-donkey
-monkey
